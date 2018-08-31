@@ -1,0 +1,15 @@
+{
+  "movies": [{
+    "id": 1,
+    "title": "Avenger: Infinitywar",
+    "cover": "test.jpg",
+    "description": "Lorem ipsum bla bla bla",
+    "rating": 4.2
+  }, {
+    "id": 1,
+    "title": "Ready player one",
+    "cover": "test.jpg",
+    "description": "Lorem ipsum bla bla bla",
+    "rating": 3.7
+  }]
+}
