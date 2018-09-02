@@ -76,19 +76,7 @@
     }]
   }, {
     "id": 3,
-    "types": [{
-      "title": "Normal Seat",
-      "amount": "12",
-      "currency" "USD"
-    },{
-      "title": "Superior Seat",
-      "amount": "18",
-      "currency" "USD"
-    },{
-      "title": "Sofa Seat",
-      "amount": "24",
-      "currency" "USD"
-    }]
+    "types": []
   }, {
     "id": 4,
     "types": [{
