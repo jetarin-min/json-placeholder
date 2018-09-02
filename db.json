@@ -51,14 +51,17 @@
   "seats": [{
     "id": 1,
     "types": [{
+      "id": 1,
       "title": "Normal Seat",
       "amount": "12",
       "currency": "USD"
     },{
+      "id": 2,
       "title": "Superior Seat",
       "amount": "18",
       "currency": "USD"
     },{
+      "id": 3,
       "title": "Sofa Seat",
       "amount": "24",
       "currency": "USD"
@@ -66,10 +69,12 @@
   }, {
     "id": 2,
     "types": [{
+      "id": 4,
       "title": "Normal Seat",
       "amount": "20",
       "currency": "SGD"
     },{
+      "id": 5,
       "title": "Sofa Seat",
       "amount": "48",
       "currency": "SGD"
@@ -80,14 +85,17 @@
   }, {
     "id": 4,
     "types": [{
+      "id": 6,
       "title": "Normal Seat",
       "amount": "12",
       "currency": "USD"
     },{
+      "id": 7,
       "title": "Superior Seat",
       "amount": "18",
       "currency": "USD"
     },{
+      "id": 8,
       "title": "Sofa Seat",
       "amount": "24",
       "currency": "USD"
@@ -95,14 +103,17 @@
   }, {
     "id": 5,
     "types": [{
+      "id": 9,
       "title": "Normal Seat",
       "amount": "120",
       "currency": "THB"
     },{
+      "id": 10,
       "title": "Superior Seat",
       "amount": "180",
       "currency": "THB"
     },{
+      "id": 11,
       "title": "Sofa Seat",
       "amount": "240",
       "currency": "THB"
@@ -110,10 +121,12 @@
   }, {
     "id": 6,
     "types": [{
+      "id": 12,
       "title": "Normal Seat",
       "amount": "12",
       "currency": "USD"
     },{
+      "id": 13,
       "title": "Sofa Seat",
       "amount": "24",
       "currency": "USD"
