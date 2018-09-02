@@ -14,7 +14,7 @@
     "description": "From filmmaker Steven Spielberg comes the science fiction action adventure “Ready Player One,” based on Ernest Cline’s bestseller of the same name, which has become a worldwide phenomenon. The film is set in 2045, with the world on the brink of chaos and collapse. But the people have found salvation in the OASIS, an expansive virtual reality universe created by the brilliant and eccentric James Halliday (Mark Rylance). When Halliday dies, he leaves his immense fortune to the first person to find a digital Easter egg he has hidden somewhere in the OASIS, sparking a contest that grips the entire world. When an unlikely young hero named Wade Watts (Tye Sheridan) decides to join the contest, he is hurled into a breakneck, reality-bending treasure hunt through a fantastical universe of mystery, discovery and danger. Spielberg directed the film from a screenplay by Zak Penn and Ernest Cline. The film was produced by Donald De Line, Spielberg, Kristie Macosko Krieger and Dan Farah; with Adam Somner, Daniel Lupi, Chris DeFaria and Bruce Berman serving as executive producers. “Ready Player One” stars Tye Sheridan (“X-Men: Apocalypse,” “Mud”), Olivia Cooke (“Me and Earl and the Dying Girl,” “Bates Motel”), Ben Mendelsohn (“Rogue One – A Star Wars Story,” “Bloodline”) and T.J. Miller (“Deadpool,” “Silicon Valley”), with Simon Pegg (the “Star Trek” movies, the “Mission: Impossible” movies) and Oscar winner Mark Rylance (“Bridge of Spies,” upcoming “Dunkirk”). Behind the scenes, three-time Oscar winner Spielberg (“Schindler’s List,” “Saving Private Ryan”) reunited his creative team from “Bridge of Spies,” including Oscar-winning director of photography Janusz Kaminski (“Schindler’s List,” “Saving Private Ryan”), Oscar-winning production designer Adam Stockhausen (“The Grand Budapest Hotel”), Oscar-winning editor Michael Kahn (“Saving Private Ryan,” “Raiders of the Lost Ark”) and Sarah Broshar (“The Post”), and costume designer Kasia Walicka-Maimone (“Moonrise Kingdom”). The music is by Oscar-nominated composer Alan Silvestri (the “Back to the Future” films, “Forrest Gump”). Warner Bros. Pictures and Amblin Entertainment present, in association with Village Roadshow Pictures, and Amblin Production, a De Line Pictures Production, a Steven Spielberg Film, “Ready Player One.” Slated for release on March 30, 2018, the film will be distributed by Warner Bros. Pictures, a Warner Bros. Entertainment Company, and in select territories by Village Roadshow Pictures.",
     "rating": 3.7,
     "type": "Sci-Fi / Action",
-    "releaseDate": "2018-06-31T17:00:00.000Z"
+    "releaseDate": "2018-06-12T17:00:00.000Z"
   }, {
     "id": 3,
     "title": "Batman - The Dark Knight Rises",
@@ -22,7 +22,7 @@
     "description": "It has been eight years since Batman (Christian Bale), in collusion with Commissioner Gordon (Gary Oldman), vanished into the night. Assuming responsibility for the death of Harvey Dent, Batman sacrificed everything for what he and Gordon hoped would be the greater good. However, the arrival of a cunning cat burglar (Anne Hathaway) and a merciless terrorist named Bane (Tom Hardy) force Batman out of exile and into a battle he may not be able to win.",
     "rating": 4.1,
     "type": "Super Hero / Action",
-    "releaseDate": "2012-06-31T17:00:00.000Z"
+    "releaseDate": "2012-06-12T17:00:00.000Z"
   }, {
     "id": 4,
     "title": "Batman - The Dark Knight",
@@ -30,7 +30,7 @@
     "description": "It has been eight years since Batman (Christian Bale), in collusion with Commissioner Gordon (Gary Oldman), vanished into the night. Assuming responsibility for the death of Harvey Dent, Batman sacrificed everything for what he and Gordon hoped would be the greater good. However, the arrival of a cunning cat burglar (Anne Hathaway) and a merciless terrorist named Bane (Tom Hardy) force Batman out of exile and into a battle he may not be able to win.",
     "rating": 4.1,
     "type": "Super Hero / Action",
-    "releaseDate": "2012-06-31T17:00:00.000Z"
+    "releaseDate": "2012-06-13T17:00:00.000Z"
   }, {
     "id": 5,
     "title": "Batman - The Dark Knight Return",
@@ -38,7 +38,7 @@
     "description": "It has been eight years since Batman (Christian Bale), in collusion with Commissioner Gordon (Gary Oldman), vanished into the night. Assuming responsibility for the death of Harvey Dent, Batman sacrificed everything for what he and Gordon hoped would be the greater good. However, the arrival of a cunning cat burglar (Anne Hathaway) and a merciless terrorist named Bane (Tom Hardy) force Batman out of exile and into a battle he may not be able to win.",
     "rating": 4.1,
     "type": "Super Hero / Action",
-    "releaseDate": "2012-06-31T17:00:00.000Z"
+    "releaseDate": "2012-06-14T17:00:00.000Z"
   }, {
     "id": 6,
     "title": "Titanic",
@@ -46,7 +46,7 @@
     "description": "It has been eight years since Batman (Christian Bale), in collusion with Commissioner Gordon (Gary Oldman), vanished into the night. Assuming responsibility for the death of Harvey Dent, Batman sacrificed everything for what he and Gordon hoped would be the greater good. However, the arrival of a cunning cat burglar (Anne Hathaway) and a merciless terrorist named Bane (Tom Hardy) force Batman out of exile and into a battle he may not be able to win.",
     "rating": 4.1,
     "type": "Romantic / Drama",
-    "releaseDate": "2012-06-31T17:00:00.000Z"
+    "releaseDate": "2012-06-15T17:00:00.000Z"
   }],
   "seats": [{
     "id": 1,
