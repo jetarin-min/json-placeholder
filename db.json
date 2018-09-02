@@ -47,5 +47,88 @@
     "rating": 4.1,
     "type": "Romantic / Drama",
     "releaseDate": "2012-06-31T17:00:00.000Z"
+  }],
+  "seats": [{
+    "id": 1,
+    "types": [{
+      "title": "Normal Seat",
+      "amount": "12",
+      "currency" "USD"
+    },{
+      "title": "Superior Seat",
+      "amount": "18",
+      "currency" "USD"
+    },{
+      "title": "Sofa Seat",
+      "amount": "24",
+      "currency" "USD"
+    }]
+  }, {
+    "id": 2,
+    "types": [{
+      "title": "Normal Seat",
+      "amount": "20",
+      "currency" "SGD"
+    },{
+      "title": "Sofa Seat",
+      "amount": "48",
+      "currency" "SGD"
+    }]
+  }, {
+    "id": 3,
+    "types": [{
+      "title": "Normal Seat",
+      "amount": "12",
+      "currency" "USD"
+    },{
+      "title": "Superior Seat",
+      "amount": "18",
+      "currency" "USD"
+    },{
+      "title": "Sofa Seat",
+      "amount": "24",
+      "currency" "USD"
+    }]
+  }, {
+    "id": 4,
+    "types": [{
+      "title": "Normal Seat",
+      "amount": "12",
+      "currency" "USD"
+    },{
+      "title": "Superior Seat",
+      "amount": "18",
+      "currency" "USD"
+    },{
+      "title": "Sofa Seat",
+      "amount": "24",
+      "currency" "USD"
+    }]
+  }, {
+    "id": 5,
+    "types": [{
+      "title": "Normal Seat",
+      "amount": "120",
+      "currency" "THB"
+    },{
+      "title": "Superior Seat",
+      "amount": "180",
+      "currency" "THB"
+    },{
+      "title": "Sofa Seat",
+      "amount": "240",
+      "currency" "THB"
+    }]
+  }, {
+    "id": 6,
+    "types": [{
+      "title": "Normal Seat",
+      "amount": "12",
+      "currency" "USD"
+    },{
+      "title": "Sofa Seat",
+      "amount": "24",
+      "currency" "USD"
+    }]
   }]
 }
