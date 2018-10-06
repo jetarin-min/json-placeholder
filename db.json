@@ -1,6 +1,6 @@
 {
   "success": {
-    "ok": true,
+    "status": "ok",
     "data": {
       "a": "ABC",
       "b": 2,
