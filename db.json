@@ -1,4 +1,28 @@
 {
+  "success": {
+    "ok": true,
+    "data": {
+      "a": "ABC",
+      "b": 2,
+      "c": [1, 2, 3]
+    }
+  },
+  "failData": {
+    "response": {   
+      "data": {
+        "d": "ABC",
+        "e": 2,
+        "f": [1, 2, 3]
+      }
+    }
+  },
+  "fail": {
+    "response": {
+      "g": "ABC",
+      "h": 2,
+      "i": [1, 2, 3]
+    }
+  },
   "movies": [{
     "id": 1,
     "title": "Avenger: Infinitywar",
