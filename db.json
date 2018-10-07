@@ -4,7 +4,8 @@
     "data": {
       "a": "ABC",
       "b": 2,
-      "c": [1, 2, 3]
+      "c": [1, 2, 3],
+      "status": "ggwp!"
     }
   },
   "failData": {
